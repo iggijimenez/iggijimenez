@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iggijimenez
-- 👀 I’m interested in learning SwiftUI and Python
-- 🌱 I’m currently learning Swift
+- 👀 I’m interested in learning SwiftUI, Python and JS
+- 🏎 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS Apps
 - 📫 How to reach me iggijimenez@gmail.com
 - 🔖 Check my Digital Portfolio out https://iggijimenez.github.io/Digital-Portfolio/
